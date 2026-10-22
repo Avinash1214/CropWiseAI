@@ -1,0 +1,6 @@
+{
+  "name": "CropWise AI — Smart Crop & Fertilizer Recommender",
+  "description": "AI-powered precision agriculture platform providing machine-learning crop prediction, nutrient deficiency analysis, and agronomic fertilizer recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
